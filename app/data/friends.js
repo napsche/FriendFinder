@@ -18,7 +18,7 @@ var friendsArray = [
     },
     {
         friendName: "Elaine",
-        photo: "https://www.facebook.com/photo.php?fbid=10212285940676523&set=t.1088784656&type=3",
+        photo: "https://www.gettyimages.com/detail/news-photo/season-5-pictured-julia-louis-dreyfus-as-elaine-benes-news-photo/138406406?adppopup=true",
         scores: [
             2,
             3,
@@ -35,7 +35,7 @@ var friendsArray = [
     },
     {
         friendName: "Kramer",
-        photo: "https://www.facebook.com/photo?fbid=10219464702181074&set=pob.8224232",
+        photo: "https://www.gettyimages.com/detail/news-photo/the-van-buren-boys-episode-14-pictured-michael-richards-as-news-photo/140950316?adppopup=true",
         scores: [
             5,
             4,
@@ -51,7 +51,7 @@ var friendsArray = [
     },
     {
         friendName: "Newman",
-        photo: "https://twitter.com/sturdevacolleen",
+        photo: "https://www.gettyimages.com/detail/news-photo/wayne-knight-as-newman-news-photo/138428655?adppopup=true",
         scores: [
             1,
             1,
@@ -67,7 +67,7 @@ var friendsArray = [
     },
     {
         friendName: "George",
-        photo: "https://www.facebook.com/photo?fbid=10214858782937441&set=pob.100000258512583",
+        photo: "https://www.shutterstock.com/image-photo/jason-alexander-hollywood-celebrates-60th-anniversary-424160293",
         scores: [
             5,
             5,

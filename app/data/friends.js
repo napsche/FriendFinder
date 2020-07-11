@@ -1,83 +1,86 @@
 var friendsArray = [
     {
-        friendName: "Kelly",
-        photo: "https://www.linkedin.com/in/kelly-dickinson-3a0237121/",
+        friendName: "Jerry",
+        photo: "https://www.shutterstock.com/image-photo/los-angeles-sep-18-jerry-seinfeld-485386732",
         scores: [
-            4,
             3,
-            1,
             2,
             5,
-            4,
+            5,
+            5,
+            2,
+            2,
+            5,
             3,
-            4,
-            3,
-            5
+            4
         ]
+        //36
     },
     {
-        friendName: "Chris",
+        friendName: "Elaine",
         photo: "https://www.facebook.com/photo.php?fbid=10212285940676523&set=t.1088784656&type=3",
         scores: [
-            4,
-            3,
-            1,
             2,
+            3,
+            4,
+            4,
+            3,
             5,
+            2,
             4,
-            3,
             4,
-            3,
-            5
+            1
         ]
+        //32
     },
     {
-        friendName: "Luke",
+        friendName: "Kramer",
         photo: "https://www.facebook.com/photo?fbid=10219464702181074&set=pob.8224232",
         scores: [
-            4,
-            3,
-            1,
-            2,
             5,
             4,
-            3,
+            5,
             4,
-            3,
-            5
+            4,
+            4,
+            5,
+            4,
+            5,
+            4
         ] 
     },
     {
-        friendName: "Colleen",
+        friendName: "Newman",
         photo: "https://twitter.com/sturdevacolleen",
         scores: [
-            4,
-            3,
+            1,
             1,
             2,
+            2,
+            2,
+            1,
+            2,
+            2,
             5,
-            4,
-            3,
-            4,
-            3,
             5
         ] 
     },
     {
-        friendName: "Dave",
+        friendName: "George",
         photo: "https://www.facebook.com/photo?fbid=10214858782937441&set=pob.100000258512583",
         scores: [
-            4,
-            3,
+            5,
+            5,
             1,
             2,
             5,
+            1,
+            5,
             4,
-            3,
-            4,
-            3,
+            5,
             5
         ] 
+        //36
     }
 
 ];

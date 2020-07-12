@@ -1,0 +1,43 @@
+.jumbotron {
+    background-color: lightblue;
+}
+
+#submitBtn2 {
+    background-color: lightgray;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+h1 {
+    color: midnightblue;
+    text-align: center;
+    font-size: xx-large;
+}
+h2 {
+    color: midnightblue;
+    text-align: center;
+    font-size: medium;
+}
+body {
+    background-color: lightgray;
+}
+footer {
+    text-align: center;
+}
+p {
+    color: midnightblue;
+}
+h3 {
+    color: midnightblue;
+}
+h4 {
+    color: midnightblue;
+}
+input {
+    background-color: lightblue;
+}
+#form-control {
+    background-color: lightblue;
+}
+#submitBtn {
+    background-color: lightblue;
+}

@@ -35,9 +35,14 @@ h4 {
 input {
     background-color: lightblue;
 }
+#bestFriendPhoto {
+    width: 200 px;
+    height: 200px;
+}
 #form-control {
     background-color: lightblue;
 }
 #submitBtn {
     background-color: lightblue;
+    margin-left: 150px;
 }

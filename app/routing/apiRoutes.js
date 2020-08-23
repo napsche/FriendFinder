@@ -17,10 +17,10 @@ module.exports = function(app) {
         var bestFriendScore = 0;
         var minDiff = 40;
 
-        for (var i = 0; i < friends.length; i++) {
+        for (var i = 0; i < friendsjs.length; i++) {
             var totalDifference = 0; 
-            for (var j = 0; j < friends[i].scores.length; j++) {
-                var difference = Math.abs(user.scores[j] - friends[i].scores[j]);
+            for (var j = 0; j < friendsjs[i].scores.length; j++) {
+                var difference = Math.abs(user.scores[j] - friendsjs[i].scores[j]);
                 totalDifference += difference;
             }
 
@@ -30,7 +30,7 @@ module.exports = function(app) {
             }
         }
 
-        friends.push(user);
+        friendsjs.push(user);
 
         res.json(friendsjs[bestFriendScore]);
     });

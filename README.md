@@ -13,3 +13,6 @@ This application was build using JavaScript, node, and routing!
 
 
 Start by taking a short, ten question survey. Based on your ranked responses, the application will match you to your new best friend! (BTW, your friends are also the cast of Seinfeld &copy;)
+
+Give it a try!
+https://napsche.github.io/FriendFinder/
